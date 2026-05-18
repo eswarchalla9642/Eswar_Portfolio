@@ -1,0 +1,8 @@
+[user]
+    name = CHALLA ESWAR VENKATA DURGA RAO
+    email = eswarchalla9642@gmail.com
+[core]
+    autocrlf = true
+    excludesfile = .gitignore
+[status]
+    showUntrackedFiles = all
