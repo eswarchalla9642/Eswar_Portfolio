@@ -4,9 +4,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   base: '/Eswar_Portfolio/', // Set the base path for GitHub Pages
-  server: {
-    host: true, // This exposes the project on your local network
-    port: 5173  // Optional: You can force a specific port if you want
-  }
 });
 
